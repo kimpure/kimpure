@@ -2,7 +2,7 @@
 안녕하세요 선우입니다
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpure&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpure)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpure&langs_count=3&layout=compact&theme=dark)](https://github.com/kimpure/kimpure)
 
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 sunwoo_0823
