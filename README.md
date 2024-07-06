@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpure&langs_count=6&layout=compact&theme=dark)](https://github.com/kimpure/kimpure)
 
 I like Language is go and luau
-I like Game in Rainbow6 and life a dragon
+I like Game in Rainbow6
  
 
 ## 만든거 
