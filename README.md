@@ -4,6 +4,6 @@
 
 discrod : sunwoo_0823
 
-![Stat](https://github-readme-stats.vercel.app/api?username=kimpure&show_icons=true&theme=white) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpure&langs_count=6&layout=compact&theme=white)](https://github.com/kimpure/kimpure)
+![Stat](https://github-readme-stats.vercel.app/api?username=kimpure&show_icons=true&theme=pink) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpure&langs_count=6&layout=compact&theme=pink)](https://github.com/kimpure/kimpure)
 </div>
