@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=cba6f7&background=FFFFFF00&repeat=false&random=false&size=30&lines=%F0%9F%91%8B+hiya%2C+i'm+DevComp!)](https://git.io/sunwoo)
 <div align="center">
 
 # sunwoo_0823
