@@ -2,8 +2,7 @@
 
 # sunwoo_0823
 
-discrod : [sunwoo](http://discordapp.com/users/858173387775148073 
-)
+discrod : [sunwoo](http://discordapp.com/users/858173387775148073 )
 </div>
 
 [![Stat](https://github-readme-stats.vercel.app/api?username=kimpure&show_icons=true&theme=dark)](https://github.com/kimpure/kimpure) <br>
