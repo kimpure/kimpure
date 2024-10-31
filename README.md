@@ -10,7 +10,7 @@ discrod : [sunwoo](http://discordapp.com/users/858173387775148073)
 
 
 <h3 align="center">
-  해보고싶은거: <br> 
+  TODO LIST <br> 
       작곡배우기 <br>
 </h3>
   
