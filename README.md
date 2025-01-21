@@ -7,10 +7,3 @@ discrod : [sunwoo](http://discordapp.com/users/858173387775148073)
 
 [![Stat](https://github-readme-stats.vercel.app/api?username=kimpure&show_icons=true&theme=dark)](https://github.com/kimpure/kimpure) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpure&langs_count=10&layout=compact&theme=dark)](https://github.com/kimpure/kimpure)
-
-
-<h3 align="center">
-  TODO LIST <br> 
-      작곡배우기 <br>
-</h3>
-  
