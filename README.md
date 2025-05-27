@@ -7,8 +7,8 @@
 
     
 <p>
-    마법공학시스템 조율자를 희망하는 조율자입니다
-    luau, c++ <br>
+    마법공학시스템 조율자를 희망하는 조율자입니다 <br>
+    luau, c++ 
 </p>
 
 [![Stat](https://github-readme-stats.vercel.app/api?username=kimpure&show_icons=true&theme=dark)](https://github.com/kimpure/kimpure) <br>
