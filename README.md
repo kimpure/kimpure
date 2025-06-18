@@ -4,10 +4,11 @@
   <br>
 </div>
 
+<hr>
   
 <div width=100% align=center>
-  <p>luau와 cpp은 환상이다</p> <br> 
-  <sup>(흐에에) 근대 왜 꽃게를 더 많이 쓰냐구요?? 흠..</sup>
+  <p>luau와 cpp은 환상이다</p>
+  <sup>(흐에에) 근대 왜 꽃게를 더 많이 쓰냐구요?? 흠..</sup> <br> 
   
   <p>해보고싶은거: 작곡배우기 </p><br>
   
