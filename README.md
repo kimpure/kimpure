@@ -11,13 +11,13 @@
   
 <div width=100% align=center>
   <p>luau와 cpp은 환상이다</p>
-  <sup>(흐에에) 근대 왜 꽃게를 더 많이 쓰냐구요?? 흠..</sup> <br> 
+  <sup>(흐에에) 근대 왜 꽃게를 더 많이 쓰냐구요?? 흠..</sup> <br> <br>
   
-  <p>해보고싶은거: 작곡배우기 </p><br>
+  <p>해보고싶은거: 작곡배우기</p><br>
   
-  [![Stat](https://github-readme-stats.vercel.app/api?username=kimpure&show_icons=true&theme=dark)](https://github.com/kimpure/kimpure) <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpure&langs_count=3&layout=compact&theme=dark)](https://github.com/kimpure/kimpure)
+ 
 </div>
 
 
-
+[![Stat](https://github-readme-stats.vercel.app/api?username=kimpure&show_icons=true&theme=dark)](https://github.com/kimpure/kimpure) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpure&langs_count=3&layout=compact&theme=dark)](https://github.com/kimpure/kimpure)
