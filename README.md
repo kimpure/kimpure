@@ -16,5 +16,5 @@
 
 <div width=100% align=center>
 💙 <br>
-[@xcvbwer123](https://github.com/xcvbwer123-rs)
+<a href="https://github.com/xcvbwer123-rs">@xcvbwer123</a>
 </div>
