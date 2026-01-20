@@ -3,3 +3,6 @@
   <p>저도 잘 모르겠어요</p> <br>
   <a href="https://picrew.me/share?cd=QmxAERPfgP#google_vignette">pfp</a>
 </div>
+
+<img width=455em height=179em src="https://github-readme-stats.vercel.app/api?username=qwreey&count_private=true&hide_border=true&show_icons=true&theme=radical" />
+<img width=385em height=179em src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwreey&hide_border=true&theme=radical&layout=compact&langs_count=7&exclude_repo=qwreey.roblox.plugins,RBX_UI_PROJECT,mina_discord-bot,qlvm,catscript,mcFn16to17,schoolGraphProgram,Quad,discordia-enchant,termRBLX,newYearCounter" />
