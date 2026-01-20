@@ -2,9 +2,8 @@
   <h4>무엇을 하는 사람인가요</h5>
   <p>저도 잘 모르겠어요</p> <br>
   <a href="https://picrew.me/share?cd=QmxAERPfgP#google_vignette">pfp</a>
+  <p><sup>귀여운 유전자는 분명히 존재합니다 refer: <a href="https://github.com/qwreey">Qwreey</a></sup></p>
 </div>
-
-<p><sup>귀여운 유전자는 분명히 존재합니다 refer: <a href="https://github.com/qwreey">Qwreey</a></sup></p>
 
 <div width=100% align=center>
   <img width=455em height=179em src="https://github-readme-stats.vercel.app/api?username=yaeju1205&count_private=true&hide_border=true&show_icons=true&theme=radical" />
