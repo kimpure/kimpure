@@ -15,10 +15,8 @@ vim 과 neovim 를 좋아합니다 <br>
 
 if finding my luau project on pesde, please refer kimpure/[project name] <br>
 
-<hr>
-
 <div width=100% align=center>
-  <img src="https://github-readme-stats-one-psi-26.vercel.app/api?username=yaeju1205&show_icons=true&hide_border=true&theme=radical" alt="Yaeju's GitHub Stats" />
-  <img src="https://github-readme-stats-one-psi-26.vercel.app/api/top-langs/?username=yaeju1205&layout=compact&hide_border=true&theme=radical" alt="Yaeju's Top Languages" />
+  <img src="https://github-readme-stats-one-psi-26.vercel.app/api?username=yaeju1205&show_icons=true&hide_border=true&theme=transparent" alt="Yaeju's GitHub Stats" />
+  <img src="https://github-readme-stats-one-psi-26.vercel.app/api/top-langs/?username=yaeju1205&layout=compact&hide_border=true&theme=transparent" alt="Yaeju's Top Languages" />
   
 </div>
